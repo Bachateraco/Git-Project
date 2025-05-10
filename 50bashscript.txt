@@ -1,4 +1,4 @@
-# Git Project Perkins
+# Git Project: Teresa Perkins, Due 5/12/2025
 # This file has a bash script that prints 1 to 50 in a Linux terminal 
 
 #!/bin/bash
