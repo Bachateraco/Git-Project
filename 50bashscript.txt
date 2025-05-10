@@ -1,0 +1,9 @@
+# Git Project Perkins
+# This file has a bash script that prints 1 to 50 in a Linux terminal 
+
+#!/bin/bash
+
+for i in $(seq 50); do
+	echo "$i"
+	sleep 0.25
+done
